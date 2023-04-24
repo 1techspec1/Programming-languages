@@ -1,0 +1,15 @@
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/bin/Debug/net6.0/FirstProject_HelloConsole
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/bin/Debug/net6.0/FirstProject_HelloConsole.deps.json
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/bin/Debug/net6.0/FirstProject_HelloConsole.runtimeconfig.json
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/bin/Debug/net6.0/FirstProject_HelloConsole.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/bin/Debug/net6.0/FirstProject_HelloConsole.pdb
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.csproj.AssemblyReference.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.AssemblyInfoInputs.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.AssemblyInfo.cs
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/refint/FirstProject_HelloConsole.dll
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.pdb
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/FirstProject_HelloConsole.genruntimeconfig.cache
+/Users/aleksandrteruskov/Documents/Geek Brains/Введение в языки программирования/FirstProject_HelloConsole/obj/Debug/net6.0/ref/FirstProject_HelloConsole.dll
